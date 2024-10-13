@@ -7,7 +7,7 @@ import cohere
 from PyPDF2 import PdfReader
 
 # Load Cohere client (replace with your API key)
-cohere_api_key = "bCos1WNgZSvrBLWSYGfG6yiDO638h1k3y4Whjr0X"
+cohere_api_key = "USe_ypur_own_key_to_cross_check_coz_it's_restricted"
 co_client = cohere.Client(cohere_api_key)
 
 # Load the embedding model and FAISS index
